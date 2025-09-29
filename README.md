@@ -1,4 +1,4 @@
-# Curso de GIT
+# Curso de GIT Septiembre 2025
 ---
 ## Actualizando REAMDE.md
 
