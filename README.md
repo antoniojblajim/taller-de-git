@@ -1,1 +1,3 @@
-# Primera subida a GITHUB
+# Curso de GIT
+---
+## Actualizando REAMDE.md
